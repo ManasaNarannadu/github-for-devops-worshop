@@ -1,0 +1,19 @@
+3 dir
+   4 git init
+   5 git status
+   6 git add testing.html
+   7 git status
+   8 git commit -m "added testing files"
+    10 git remote add origin https://github.com/ManasaNarannadu/github-for-devops-worshop.git
+  12 git push origin main
+  17 git branch -M main
+  18 git push -u origin main
+  19 git remote set-url origin https://github.com/ManasaNarannadu/github-for-devops-worshop.git
+  20 git remote -v
+  21 git branch
+  22 git status
+  23 git add git command
+  24 git config --global credential.helper manager //to login our github account using visual code 
+  25 git push -u origin master
+  26 git push -u origin main
+  27 git status
